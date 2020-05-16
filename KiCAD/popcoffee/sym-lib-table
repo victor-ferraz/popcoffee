@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Violacao)(type Legacy)(uri ${KIPRJMOD}/libraries/Violacao.lib)(options "")(descr ""))
+  (lib (name MAX6675)(type Legacy)(uri ${KIPRJMOD}/libraries/MAX6675.lib)(options "")(descr ""))
+)
